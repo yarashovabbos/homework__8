@@ -101,7 +101,7 @@ function TodoApp() {
           <thead>
             <tr>
               <th>ID</th>
-              <th>Title</th>
+              <th>Name</th>
               <th>Completed</th>
               <th>Comment</th>
               <th>Actions</th>
